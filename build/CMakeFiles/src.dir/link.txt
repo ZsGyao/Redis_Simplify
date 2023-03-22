@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++11 -O0 -ggdb -Wall -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated -Wno-deprecated-declarations -shared -Wl,-soname,libsrc.so -o ../lib/libsrc.so CMakeFiles/src.dir/src/adlist.cpp.o 

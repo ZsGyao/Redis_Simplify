@@ -1,0 +1,4 @@
+/home/zgys/workspace/Redis-Simplify/build/CMakeFiles/src.dir
+/home/zgys/workspace/Redis-Simplify/build/CMakeFiles/test_adlist.dir
+/home/zgys/workspace/Redis-Simplify/build/CMakeFiles/edit_cache.dir
+/home/zgys/workspace/Redis-Simplify/build/CMakeFiles/rebuild_cache.dir

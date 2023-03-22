@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="695" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/adlist.h" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="3388" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/adlist.cpp" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1467" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/tests/test_adlist.cpp" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>
